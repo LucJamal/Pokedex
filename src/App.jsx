@@ -10,7 +10,9 @@ function App() {
       <Navbar />
       <PokemonList />
       <Footer />
+      
     </div>
+    
   )
 }
 
