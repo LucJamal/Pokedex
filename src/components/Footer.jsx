@@ -1,6 +1,6 @@
 function Footer() {
   return (
-    <footer>
+    <footer className="site-footer">
       <p>Desenvolvido por Lucas — Programação Frontend — UNIVAS</p>
     </footer>
   )
